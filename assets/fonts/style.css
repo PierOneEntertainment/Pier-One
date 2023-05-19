@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Starzone-SVG';
+   font-display: swap;
+   src: url('Starzone-SVG/font.ttf');
+}
+@font-face {
+   font-family: 'Arena';
+   font-display: swap;
+   src: url('Arena/font.ttf');
+}
